@@ -22,4 +22,4 @@ while (novamente=="1"):
         print(f"{testar} não é um palíndromo")
     novamente = input("Deseja testar outra palavra? (1 para sim, qualquer tecla para não:) ")
 else:
-    print("Fim")
+    print("Fim da execução")
